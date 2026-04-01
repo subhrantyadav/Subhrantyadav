@@ -1,13 +1,13 @@
-### Hi, I'm Subhrant 👋
+## Hi, I'm Subhrant 👋
 
 🎓 BSc Computer Science (2026) | MCA Aspirant  
-💻 Interested in building practical tech projects  
+💻 Passionate about building practical and real-world tech projects  
 
 ---
 
 ### 🚀 Projects
-- 📶 WiFi Dead Zone Detection (ESP32)  
-- 📊 Growkar – Trade Diary System  
+📶 WiFi Dead Zone Detection using ESP32  
+📊 Growkar – Trade Diary System  
 
 ---
 
@@ -15,4 +15,11 @@
 - Programming  
 - Object-Oriented Programming (OOP)  
 - DBMS  
-- Problem Solving
+- Problem Solving  
+
+---
+
+### 📌 Current Focus
+- Strengthening core computer science concepts  
+- Building project-based skills  
+- Preparing for MCA
