@@ -1,6 +1,6 @@
 ## Hi, I'm Subhrant 👋
 
-🎓 BSc Computer Science (2026) | MCA Aspirant  
+🎓 BSc Computer Science (2026) | MCA  
 💻 Passionate about building practical and real-world tech projects  
 
 ---
